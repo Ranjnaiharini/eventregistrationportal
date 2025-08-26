@@ -12,14 +12,14 @@ A full-stack web application for event registration with responsive frontend and
 
 ## Technology Stack
 
-### Frontend (10 marks)
+### Frontend 
 - **HTML5**: Semantic markup with proper structure
 - **CSS3**: Modern styling with gradients, animations, and responsive design
 - **JavaScript**: ES6+ features, async/await, modular architecture
 - **Bootstrap 5**: Responsive grid system, components, and utilities
 - **Font Awesome**: Icon library for enhanced UI
 
-### Backend (15 marks)
+### Backend 
 - **Node.js**: Server-side JavaScript runtime
 - **Express.js**: Web application framework
 - **JWT Authentication**: Secure user authentication with tokens
@@ -86,14 +86,14 @@ Event Registration Portal/
 
 ## Team Members & Roles
 
-### Frontend Developer (10 marks)
+### Frontend Developer 
 - **HTML5**: Semantic structure, accessibility, forms
 - **CSS3**: Responsive design, animations, modern styling
 - **JavaScript**: ES6+ features, event handling, API integration
 - **Bootstrap 5**: Grid system, components, responsive utilities
 - **UI/UX**: User experience, responsive design, accessibility
 
-### Backend Developer (15 marks)
+### Backend Developer 
 - **Node.js**: Server setup, async operations, modules
 - **Express.js**: Routing, middleware, error handling
 - **Authentication**: JWT tokens, password hashing, security

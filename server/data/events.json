@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "title": "parinama",
+    "category": "Sports",
+    "date": "2025-08-27",
+    "time": "05:30",
+    "location": "MVB FRONT",
+    "description": "Its a 21 days yoga challange to build up our health,mind etc..,",
+    "capacity": 25,
+    "price": 20,
+    "organizerId": 2,
+    "organizerName": "rasi",
+    "registrations": 2,
+    "registeredUsers": [
+      3,
+      4
+    ],
+    "createdAt": "2025-08-26T04:58:08.203Z",
+    "updatedAt": "2025-08-26T05:45:53.408Z"
+  },
+  {
+    "id": 3,
+    "title": "nova hust",
+    "category": "Technology",
+    "date": "2025-08-29",
+    "time": "11:31",
+    "location": "kct",
+    "description": "all india level hacathon",
+    "capacity": 300,
+    "price": 29,
+    "organizerId": 5,
+    "organizerName": "demo1",
+    "registrations": 1,
+    "registeredUsers": [
+      5
+    ],
+    "createdAt": "2025-08-26T06:02:06.482Z",
+    "updatedAt": "2025-08-26T06:02:24.683Z"
+  },
+  {
+    "id": 2,
+    "title": "sih 2025",
+    "category": "Technology",
+    "date": "2025-08-29",
+    "time": "15:13",
+    "location": "amuse lab",
+    "description": "smart india hackathon",
+    "capacity": 250,
+    "price": 40,
+    "organizerId": 4,
+    "organizerName": "demo",
+    "registrations": 2,
+    "registeredUsers": [
+      4,
+      2
+    ],
+    "createdAt": "2025-08-26T05:44:16.283Z",
+    "updatedAt": "2025-08-26T05:48:08.681Z"
+  }
+]

@@ -7,5 +7,50 @@
     "registeredEvents": [],
     "createdAt": "2025-08-26T03:56:14.551Z",
     "updatedAt": "2025-08-26T03:56:14.551Z"
+  },
+  {
+    "id": 2,
+    "name": "rasi",
+    "email": "rasi@gmail.com",
+    "password": "$2a$12$5shw/iqJWZqr/1JEAx7aPO3/vSfL.Jlv2RTH/Yjr4xpeL7ywc2VZi",
+    "registeredEvents": [
+      "2"
+    ],
+    "createdAt": "2025-08-26T04:56:05.910Z",
+    "updatedAt": "2025-08-26T05:48:08.684Z"
+  },
+  {
+    "id": 3,
+    "name": "ran",
+    "email": "ran@gmail.com",
+    "password": "$2a$12$8N72.xH21j/kysmU4mJpmOrfdWRFgEGs6JRQQaZ5XNamjn8AGAIAu",
+    "registeredEvents": [
+      "1"
+    ],
+    "createdAt": "2025-08-26T04:58:42.450Z",
+    "updatedAt": "2025-08-26T04:58:56.659Z"
+  },
+  {
+    "id": 4,
+    "name": "demo",
+    "email": "demo@gmail.com",
+    "password": "$2a$12$crAwPIALoXuEyJODXcTQ8esyrrrWQfXQDmqxe6Y2QtYp9gm6rcNYK",
+    "registeredEvents": [
+      "2",
+      "1"
+    ],
+    "createdAt": "2025-08-26T05:40:27.674Z",
+    "updatedAt": "2025-08-26T05:45:53.411Z"
+  },
+  {
+    "id": 5,
+    "name": "demo1",
+    "email": "demo1@gmail.com",
+    "password": "$2a$12$8SWDPunwrP0vpskBOQD3IOdm0tdLkA2T/ppZH9D9ivxumUMnoUh8S",
+    "registeredEvents": [
+      "3"
+    ],
+    "createdAt": "2025-08-26T06:00:42.174Z",
+    "updatedAt": "2025-08-26T06:02:24.685Z"
   }
 ]

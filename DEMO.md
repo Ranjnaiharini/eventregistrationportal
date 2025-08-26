@@ -3,15 +3,15 @@
 ## 🎯 Demo Overview
 This demo showcases a full-stack Event Registration Portal built with modern web technologies, demonstrating both frontend and backend capabilities.
 
-## 🚀 Demo Flow (15 minutes)
+## 🚀 Demo Flow 
 
-### 1. Project Introduction (2 min)
+### 1. Project Introduction 
 - **Project**: Event Registration Portal
 - **Technology Stack**: HTML5, CSS3, JavaScript, Bootstrap 5, Node.js, Express
 - **Architecture**: Full-stack with modular backend and responsive frontend
 - **Evaluation Criteria**: Frontend (10 marks) + Backend (15 marks) = 25 total marks
 
-### 2. Frontend Demonstration (5 min)
+### 2. Frontend Demonstration 
 
 #### Responsive Design
 - **Mobile-First**: Show responsive navigation and layout
@@ -29,7 +29,7 @@ This demo showcases a full-stack Event Registration Portal built with modern web
 - **CSS3**: Custom styling, animations, responsive breakpoints
 - **JavaScript**: ES6+ features, async/await, modular architecture
 
-### 3. Backend Demonstration (5 min)
+### 3. Backend Demonstration 
 
 #### Server Architecture
 - **Node.js**: Event-driven, non-blocking I/O
@@ -46,7 +46,7 @@ This demo showcases a full-stack Event Registration Portal built with modern web
 - **JSON Storage**: File-based database with models
 - **Data Validation**: Input sanitization and error handling
 
-### 4. Full-Stack Integration (3 min)
+### 4. Full-Stack Integration 
 
 #### API Endpoints
 - **RESTful Design**: Proper HTTP methods and status codes
@@ -60,14 +60,14 @@ This demo showcases a full-stack Event Registration Portal built with modern web
 
 ## 🔧 Technical Implementation
 
-### Frontend (10 marks)
+### Frontend 
 ✅ **HTML5**: Semantic structure, forms, accessibility
 ✅ **CSS3**: Responsive design, animations, modern styling  
 ✅ **JavaScript**: ES6+, async operations, event handling
 ✅ **Bootstrap 5**: Grid system, components, utilities
 ✅ **UI/UX**: User experience, responsive design
 
-### Backend (15 marks)
+### Backend 
 ✅ **Node.js**: Server runtime, async operations
 ✅ **Express.js**: Web framework, routing, middleware
 ✅ **Authentication**: JWT, bcrypt, security
@@ -156,14 +156,14 @@ curl -X POST http://localhost:3000/api/register \
 
 ## 🎯 Evaluation Highlights
 
-### Frontend Excellence (10 marks)
+### Frontend Excellence 
 - **Responsive Design**: Mobile-first, cross-device compatibility
 - **Modern UI/UX**: Beautiful gradients, animations, hover effects
 - **Accessibility**: Semantic HTML, proper form labels
 - **Performance**: Optimized loading and smooth interactions
 - **Code Quality**: Clean, maintainable JavaScript and CSS
 
-### Backend Excellence (15 marks)
+### Backend Excellence 
 - **Node.js Mastery**: Proper async operations and event handling
 - **Express.js Implementation**: RESTful API with middleware
 - **Authentication System**: JWT tokens with bcrypt security
@@ -194,8 +194,6 @@ The Event Registration Portal demonstrates:
 - **User Experience**: Beautiful, responsive, and accessible interface
 - **Technical Excellence**: Clean architecture and best practices
 
-**Total Score: 25/25 marks**
-- Frontend (HTML, CSS, JS): 10/10 ✅
-- Node.js Server Functionality: 15/15 ✅
+
 
 This project showcases the complete skill set required for modern full-stack web development, with particular emphasis on responsive design, security, and user experience.
