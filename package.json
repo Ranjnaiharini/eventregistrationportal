@@ -1,0 +1,31 @@
+{
+  "name": "event-registration-portal",
+  "version": "1.0.0",
+  "description": "A full-stack event registration portal with responsive frontend and Node.js backend",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "nodemon server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "event",
+    "registration",
+    "portal",
+    "nodejs",
+    "express",
+    "bootstrap"
+  ],
+  "author": "Event Portal Team",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.18.2",
+    "cors": "2.8.5",
+    "body-parser": "1.20.2",
+    "bcryptjs": "2.4.3",
+    "jsonwebtoken": "9.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
