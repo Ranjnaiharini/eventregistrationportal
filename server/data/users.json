@@ -52,5 +52,36 @@
     ],
     "createdAt": "2025-08-26T06:00:42.174Z",
     "updatedAt": "2025-08-26T06:02:24.685Z"
+  },
+  {
+    "id": 6,
+    "name": "sample",
+    "email": "sample@gmail.com",
+    "password": "$2a$12$ij99JpcCT3WRAOPpOM5JcuZIj8Soy6fnlLTdeJPcywXMLWYGYEBE.",
+    "registeredEvents": [],
+    "createdAt": "2025-09-01T05:54:27.743Z",
+    "updatedAt": "2025-09-01T05:54:27.743Z"
+  },
+  {
+    "id": 7,
+    "name": "sample1",
+    "email": "sample1@gmail.com",
+    "password": "$2a$12$3CzpRSvgK9RN/dmdZnXeW.90B3z4vuEdPPjxdtzciUgfIgO19ghpm",
+    "registeredEvents": [
+      "4"
+    ],
+    "createdAt": "2025-09-01T05:56:17.935Z",
+    "updatedAt": "2025-09-01T05:57:55.041Z"
+  },
+  {
+    "id": 8,
+    "name": "preethi",
+    "email": "p@gmail.com",
+    "password": "$2a$12$5H42er82r745Kybg8nd8EuCm4hN7DSH9.6x6oJ6FseW6ywQUBXgYi",
+    "registeredEvents": [
+      "4"
+    ],
+    "createdAt": "2025-09-01T06:09:56.852Z",
+    "updatedAt": "2025-09-01T06:10:49.972Z"
   }
 ]
